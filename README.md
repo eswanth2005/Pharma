@@ -316,9 +316,10 @@ Publish the website in the LocalHost.
 </html>
 ```
 ## OUTPUT:
-![alt text](ex10-1.png)
-![alt text](ex10-2.png)
-![alt text](ex10-3.png)
-![alt text](ex10-5.png)
+![image](https://github.com/eswanth2005/Pharma/assets/164656722/715fdbe3-f5c0-4407-b254-c728e5d2f334)
+![image](https://github.com/eswanth2005/Pharma/assets/164656722/6af5786f-6047-464b-9e3c-5da9be20dfd1)
+![image](https://github.com/eswanth2005/Pharma/assets/164656722/c40404d2-73f4-4bb9-89bd-797cad163f3e)
+![image](https://github.com/eswanth2005/Pharma/assets/164656722/a31cc54a-1f3c-49d1-b717-b02c63c7d421)
+
 ## RESULT:
 The Project for responsive web design using Bootstrap is completed successfully.
